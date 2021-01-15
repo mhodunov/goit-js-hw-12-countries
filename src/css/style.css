@@ -117,3 +117,10 @@ body {
   width: 400px;
   box-shadow: 2px 1px 16px 0px rgba(0, 0, 0, 0.39);
 }
+
+.notification {
+  position: fixed;
+  top: 0;
+  right: 0;
+  text-align: center;
+}
